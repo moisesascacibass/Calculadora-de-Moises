@@ -1,0 +1,25 @@
+.tablee{
+  margin: auto;
+  background-color: rgb(201, 191, 191);
+  word-spacing: 6px;
+  padding-left: 100px;
+
+
+}
+.horario_principal{
+    padding-left: 845px;
+    
+}
+table{
+    width: 100%;
+    height: 750px;
+    border-collapse:collapse ;
+}
+.linha_titulo{
+    background-color: black;
+    color: aliceblue;
+   
+}
+.corzinha{
+    padding-left: 630px;
+}
